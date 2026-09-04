@@ -1,11 +1,13 @@
 about:
-  description: pure rust implemented drawer library( api like canvas), enables AI models that do not produce raw images to generate images
+  description:
+  |
+    pure rust implemented drawer library( api like canvas), enables AI models that do not produce raw images to generate images
   license: NOASSERTION
   homepage: 
   head: ce19469
   archived: false
   latestVersion: main-8-ce1946955235826a0010d522df83e2ab5722d111
-  collectedAt: 2026-09-04T04:46:58Z
+  collectedAt: 2026-09-04T19:46:15Z
 timeline:
   created: 2026-03-29
   lastCommit: 2026-05-23
@@ -16,14 +18,22 @@ popularity:
   fork: 7
   release: 8
   contributor: 1
-  pullRequest: 0
+  pullRequest: 7
   issue: 1
 language:
   Rust: 273834
-totalLine: 273834
+totalBytes: 273834
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 26
+  last720d:
+    since: 2024-09-14
+    release: 8
+    mergedPR: 7
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 37
+total:
+  release: 8
+  mergedPR: 7
+  openPR: 0
+  closedIssue: 1
+  openIssue: 0
+  commit: 37
+---
+---
+
